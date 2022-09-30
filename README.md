@@ -1,4 +1,4 @@
-https://xn--2z1bj25a.shop/
+https://wendy.shop/
 
 this is my blog.
 
