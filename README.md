@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%!%20&height=200&fontSize=80&textBg=true)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20I'am~jinsootree%20&height=200&fontSize=50&textBg=true)
 
+<div align="center">
+           I'am jinsootree
+            </div>
+            <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsootree&show_icons=true&theme=default)
 
