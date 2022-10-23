@@ -3,12 +3,6 @@
 
 <div align=center><h1>🚀 I'am Studying </h1></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/visualstudio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
-  <img src="https://img.shields.io/badge/code academy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white"> 
-  <br>
-  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
