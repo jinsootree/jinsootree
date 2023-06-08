@@ -32,10 +32,11 @@
   <br>
 </div>
 <br>
-
+<div align=center>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsootree&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>
+
 
 # This is My Blog. 😎 Click [Here](https://xn--2z1bj25a.shop/) 
 
